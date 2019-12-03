@@ -6,3 +6,4 @@ Changes:
 - Upgraded to .Net standard 2
 
 
+Clone the project and run the ConverterRunner console app
